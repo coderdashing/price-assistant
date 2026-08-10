@@ -85,3 +85,4 @@ To set up your production infrastructure, run `agents-cli infra cicd`.
 
 Built-in telemetry exports to Cloud Trace, BigQuery, and Cloud Logging.
 # pizza_quiz
+# ambient-expense-agent
